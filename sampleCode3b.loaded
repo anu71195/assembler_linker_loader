@@ -1,0 +1,5 @@
+LDA @14
+MOV B,A
+LDA @14
+ADD B
+STA @14
